@@ -1,2 +1,2 @@
-to jest zmiana na mastaerze
+to jest z brancha newfeature
 
