@@ -1,4 +1,6 @@
-to jest 1 sza wersja pliku 3
+to jest 1 sza wersja pliku 1
+
+zmiana w pliku 1
 
         program test_pasma_ok!!
         IMPLICIT REAL*8 (A-H,O-Z)
