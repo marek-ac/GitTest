@@ -1,2 +1,1 @@
-to jest z brancha newfeature
-
+zmieniona zawartosc
